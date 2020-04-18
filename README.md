@@ -1,2 +1,2 @@
-# AngryBirdsStage7.5
-Today we learned about JSON and API and we created a scoring system.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
